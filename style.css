@@ -1,0 +1,27 @@
+h1 {
+    color:blue;
+   }
+* {
+    border: solid;
+}
+.header{
+    background-color: chocolate;
+    display:flex;
+    justify-content: space-around;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p,h2{
+    text-align: center;
+}
+
